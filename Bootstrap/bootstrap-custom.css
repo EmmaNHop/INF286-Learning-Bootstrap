@@ -1,0 +1,18 @@
+.btn-primary{
+	color:white;
+	background-color:purple;
+	border-color:purple;
+}
+.btn-primary:hover {
+	color: #fff;
+	background-color: #5b0665;
+	border-color: #5b0665;
+}
+.btn-secondary{
+	color:purple;
+	background-color:white;
+	border-color:purple
+}
+.btn{
+	border-radius:10rem;
+}
